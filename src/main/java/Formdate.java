@@ -1,6 +1,6 @@
 public class Formdate {
-    String day;
-    String month;
-    String year;
+    int day;
+    int month;
+    int year;
 
 }
